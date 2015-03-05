@@ -12,5 +12,5 @@
 - Making a foul i.e. moving the striker in the pocket will again decrease your score by -5.
 
 ###*Extra features*
--Sound effects for correct, wrong coin scored.
--Collected coins are displayed at the bottom of the screen.
+- Sound effects for correct, wrong coin scored.
+- Collected coins are displayed at the bottom of the screen.
